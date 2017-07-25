@@ -24,10 +24,31 @@
 
 
 
-# Literature 
+# Literature
 
 ## Writing
 
 ## Analysis
+
+# Art
+
+## Design
+
+###  Web Resources
+
+## Traditional
+
+## Digital 
+
+## Fundaentals & Art Theory
+
+### Composition
+
+### Perspective
+
+### Value, form, & structure
+
+## Anatomy
+
 
 
