@@ -20,7 +20,7 @@
 
 ## Calculus
 
-## Statistics 
+## Statistics
 
 
 
@@ -40,7 +40,7 @@
 
 ## Digital 
 
-## Fundaentals & Art Theory
+## Fundamentals & Art Theory
 
 ### Composition
 
