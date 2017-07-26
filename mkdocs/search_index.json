@@ -134,6 +134,31 @@
             "location": "/#anatomy", 
             "text": "Anatomy Zone  Reddit Resource List  BioDigital Human", 
             "title": "Anatomy"
+        }, 
+        {
+            "location": "/Chemistry/", 
+            "text": "Chem Notes\n\n\nAtomic Orbitals\n\n\nOrbital \u2013 NumberLetter (ie, 1s, 2s, 3p)\n\n\nnumber denotes \nhow clos\ne energy lv is to nucleus (ie, 1 being the closest) while letter designates the \nshape\n of the orbital\n\n\n\u200b   s - sphere\n\u200b   p - twin lobes, point in a specific direction. Max 3 pointing mutually @ rt \ns to each other, p~x~, p~y~ and p~z~\n\u200b   d , f, g and beyond, the shapes get crazier\n\n\nFilling Orbitals", 
+            "title": "Chemistry"
+        }, 
+        {
+            "location": "/Chemistry/#chem-notes", 
+            "text": "", 
+            "title": "Chem Notes"
+        }, 
+        {
+            "location": "/Chemistry/#atomic-orbitals", 
+            "text": "", 
+            "title": "Atomic Orbitals"
+        }, 
+        {
+            "location": "/Chemistry/#orbital-numberletter-ie-1s-2s-3p", 
+            "text": "number denotes  how clos e energy lv is to nucleus (ie, 1 being the closest) while letter designates the  shape  of the orbital  \u200b   s - sphere\n\u200b   p - twin lobes, point in a specific direction. Max 3 pointing mutually @ rt  s to each other, p~x~, p~y~ and p~z~\n\u200b   d , f, g and beyond, the shapes get crazier", 
+            "title": "Orbital \u2013 NumberLetter (ie, 1s, 2s, 3p)"
+        }, 
+        {
+            "location": "/Chemistry/#filling-orbitals", 
+            "text": "", 
+            "title": "Filling Orbitals"
         }
     ]
 }
