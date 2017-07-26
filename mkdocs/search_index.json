@@ -2,13 +2,138 @@
     "docs": [
         {
             "location": "/", 
-            "text": "Index", 
+            "text": "Index\n\n\nLearning\n\n\nTheory\n\n\nActive Learning \n Spaced Repetition\n\n\nActive learning is much more effective than repeated, passive learning. \n\n\nThis means forcing yourself to recall things, instead of glazing your eyes over a page or watching the same video fifty times.\n\n\nIn addition, the brain works can recall things easier over time with spaced repetition.\n\n\nOptimal Review\n\n\n\u200b   Immediately after (~20 min)\n\u200b   24 hours\n\u200b   1 week later\n\u200b   1 month later   \n\n\nanki\n everyday is useful because it does this for you.  \n\n\n\n\nScience\n\n\nComputer Science\n\n\nPhysics\n\n\nChemistry\n\n\nChemspider\n\n\nReddit Compilation of Chem Lectures\n\n\nChem \u2013 libretexts\n\n\nChem Mnemonics \u2013 \n1\n / \nII\n\n\nChem Guide\n\n\nStudy Tips for General Chem\n \n \nSimilar Article\n\n\nBiology\n\n\nMedicine\n\n\nMathematics\n\n\nCalculus\n\n\nCalc Made Easy\n \u2013 Thompson or \nlocal\n\n\nMath - Better Explained\n \n\n\nStatistics\n\n\nLiterature\n\n\nWriting\n\n\nAnalysis\n\n\nArt\n\n\nDesign\n\n\nWeb Resources\n\n\nTraditional\n\n\nDigital\n\n\nFundamentals \n Art Theory\n\n\nComposition\n\n\nPerspective\n\n\nValue, form, \n structure\n\n\nAnatomy\n\n\nAnatomy Zone\n\n\nReddit Resource List\n\n\nBioDigital Human", 
             "title": "Home"
         }, 
         {
             "location": "/#index", 
             "text": "", 
             "title": "Index"
+        }, 
+        {
+            "location": "/#learning", 
+            "text": "", 
+            "title": "Learning"
+        }, 
+        {
+            "location": "/#theory", 
+            "text": "", 
+            "title": "Theory"
+        }, 
+        {
+            "location": "/#active-learning-spaced-repetition", 
+            "text": "Active learning is much more effective than repeated, passive learning.   This means forcing yourself to recall things, instead of glazing your eyes over a page or watching the same video fifty times.  In addition, the brain works can recall things easier over time with spaced repetition.  Optimal Review  \u200b   Immediately after (~20 min)\n\u200b   24 hours\n\u200b   1 week later\n\u200b   1 month later     anki  everyday is useful because it does this for you.", 
+            "title": "Active Learning &amp; Spaced Repetition"
+        }, 
+        {
+            "location": "/#science", 
+            "text": "", 
+            "title": "Science"
+        }, 
+        {
+            "location": "/#computer-science", 
+            "text": "", 
+            "title": "Computer Science"
+        }, 
+        {
+            "location": "/#physics", 
+            "text": "", 
+            "title": "Physics"
+        }, 
+        {
+            "location": "/#chemistry", 
+            "text": "Chemspider  Reddit Compilation of Chem Lectures  Chem \u2013 libretexts  Chem Mnemonics \u2013  1  /  II  Chem Guide  Study Tips for General Chem     Similar Article", 
+            "title": "Chemistry"
+        }, 
+        {
+            "location": "/#biology", 
+            "text": "", 
+            "title": "Biology"
+        }, 
+        {
+            "location": "/#medicine", 
+            "text": "", 
+            "title": "Medicine"
+        }, 
+        {
+            "location": "/#mathematics", 
+            "text": "", 
+            "title": "Mathematics"
+        }, 
+        {
+            "location": "/#calculus", 
+            "text": "Calc Made Easy  \u2013 Thompson or  local  Math - Better Explained", 
+            "title": "Calculus"
+        }, 
+        {
+            "location": "/#statistics", 
+            "text": "", 
+            "title": "Statistics"
+        }, 
+        {
+            "location": "/#literature", 
+            "text": "", 
+            "title": "Literature"
+        }, 
+        {
+            "location": "/#writing", 
+            "text": "", 
+            "title": "Writing"
+        }, 
+        {
+            "location": "/#analysis", 
+            "text": "", 
+            "title": "Analysis"
+        }, 
+        {
+            "location": "/#art", 
+            "text": "", 
+            "title": "Art"
+        }, 
+        {
+            "location": "/#design", 
+            "text": "", 
+            "title": "Design"
+        }, 
+        {
+            "location": "/#web-resources", 
+            "text": "", 
+            "title": "Web Resources"
+        }, 
+        {
+            "location": "/#traditional", 
+            "text": "", 
+            "title": "Traditional"
+        }, 
+        {
+            "location": "/#digital", 
+            "text": "", 
+            "title": "Digital"
+        }, 
+        {
+            "location": "/#fundamentals-art-theory", 
+            "text": "", 
+            "title": "Fundamentals &amp; Art Theory"
+        }, 
+        {
+            "location": "/#composition", 
+            "text": "", 
+            "title": "Composition"
+        }, 
+        {
+            "location": "/#perspective", 
+            "text": "", 
+            "title": "Perspective"
+        }, 
+        {
+            "location": "/#value-form-structure", 
+            "text": "", 
+            "title": "Value, form, &amp; structure"
+        }, 
+        {
+            "location": "/#anatomy", 
+            "text": "Anatomy Zone  Reddit Resource List  BioDigital Human", 
+            "title": "Anatomy"
         }
     ]
 }
