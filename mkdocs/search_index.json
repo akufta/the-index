@@ -159,6 +159,26 @@
             "location": "/Chemistry/#filling-orbitals", 
             "text": "", 
             "title": "Filling Orbitals"
+        }, 
+        {
+            "location": "/Python/", 
+            "text": "Python\n\n\nResources\n\n\n\n\nLearn X in Y Minutes\n\n\nDataCamp\n\n\nDataQuest\n\n\n\n\nType Conversion\n\n\nUsing the \n+\n operator to paste together two strings can be very useful in building custom messages.\n\n\nSuppose, for example, that you've calculated the return of your investment and want to summarize the results in a string. Assuming the floats \nsavings\n and \nresult\n are defined, you can try something like this:\n\n\nprint(\nI started with $\n + savings + \n and now have $\n + result + \n. Awesome!\n)\n\n\n\n\n\nThis will not work, though, as you cannot simply sum strings and floats.\n\n\nTo fix the error, you'll need to explicitly convert the types of your variables. More specifically, you'll need \nstr()\n, to convert a value into a string. \nstr(savings)\n, for example, will convert the float \nsavings\n to a string.\n\n\nSimilar functions such as \nint()\n, \nfloat()\n and \nbool()\n will help you convert Python values into any type.\n\n\n# Definition of savings and result\nsavings = 100\nresult = 100 * 1.10 ** 7\n\n# Fix the printout\nprint(\nI started with $\n + str(savings) + \n and now have $\n + str(result) + \n. Awesome!\n)\n\n# Definition of pi_string\npi_string = \n3.1415926\n\n\n# Convert pi_string into float: pi_float\npi_float=float(pi_string)\n\n\n\n\n\n output:\n\n\nI started with $100 and now have $194.87171000000012. Awesome!", 
+            "title": "Python"
+        }, 
+        {
+            "location": "/Python/#python", 
+            "text": "", 
+            "title": "Python"
+        }, 
+        {
+            "location": "/Python/#resources", 
+            "text": "Learn X in Y Minutes  DataCamp  DataQuest", 
+            "title": "Resources"
+        }, 
+        {
+            "location": "/Python/#type-conversion", 
+            "text": "Using the  +  operator to paste together two strings can be very useful in building custom messages.  Suppose, for example, that you've calculated the return of your investment and want to summarize the results in a string. Assuming the floats  savings  and  result  are defined, you can try something like this:  print( I started with $  + savings +   and now have $  + result +  . Awesome! )  This will not work, though, as you cannot simply sum strings and floats.  To fix the error, you'll need to explicitly convert the types of your variables. More specifically, you'll need  str() , to convert a value into a string.  str(savings) , for example, will convert the float  savings  to a string.  Similar functions such as  int() ,  float()  and  bool()  will help you convert Python values into any type.  # Definition of savings and result\nsavings = 100\nresult = 100 * 1.10 ** 7\n\n# Fix the printout\nprint( I started with $  + str(savings) +   and now have $  + str(result) +  . Awesome! )\n\n# Definition of pi_string\npi_string =  3.1415926 \n\n# Convert pi_string into float: pi_float\npi_float=float(pi_string)   output:  I started with $100 and now have $194.87171000000012. Awesome!", 
+            "title": "Type Conversion"
         }
     ]
 }
