@@ -8,7 +8,7 @@ A more detailed version of this post can be found [here](https://kalispera.xyz/p
 
 * [Habits](habits.md) - I try to include a few loose habits into my life without going crazy and over structuring my day. Then I tend to get nervous and lose sight of goals and being happy and balanced. 
   * I currently do not actively track most of my habits, bar meditation. When implementing a habit, I do track it though!
-* [Health](../health-and-fitness.md) - very into fitness and exerice. Taking care of health is a strong priority for me. Not only does it feel better, but it also helps you impact the earth in a better way as well as lessen financial risk that comes with preventable health problems like obesity & the comorbidities that come with that. 
+* [Health](../health-and-fitness/) - very into fitness and exerice. Taking care of health is a strong priority for me. Not only does it feel better, but it also helps you impact the earth in a better way as well as lessen financial risk that comes with preventable health problems like obesity & the comorbidities that come with that. 
   * I use my fitbit to track my health. I plan to get a Garmin watch once I can run again. Also, I document my recovery from sx because it is helpful and also keeps me less paranoid. 
 
 ### Journal 

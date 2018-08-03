@@ -1,7 +1,3 @@
----
-description: Things I've created...
----
-
 # Sharing
 
 ## Places 

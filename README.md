@@ -1,7 +1,3 @@
----
-description: An introduction to this index.
----
-
 # Introduction
 
 Welcome! This is a knowledge base where I document things important to me. It's full of many resources that have helped me improve my life. I will regularly update this as often as I can, I hope this is helpful!

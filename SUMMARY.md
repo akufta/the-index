@@ -6,5 +6,6 @@
 * [Current Workflow](current-workflow/README.md)
   * [Productivity](current-workflow/productivity.md)
   * [Habits](current-workflow/habits.md)
-* [Health & Fitness](health-and-fitness.md)
+* [Health & Fitness](health-and-fitness/README.md)
+  * [H Bookmarks](health-and-fitness/h-bookmarks.md)
 
