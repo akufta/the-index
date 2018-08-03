@@ -22,7 +22,9 @@ description: Some notes on optimization and productivity.
       2. Getting enough sleep
       3. Exercising
 
-
+<details>
+ <summary>Selected Full Text Quote</summary>
+ 
 
       **It’s okay to buck conventional wisdom if something else works better for you.** Find you get more done when you don’t wake up at 5:30 every morning? Then sleep in! Find you get more done when you don’t do your most important task first thing in the morning, and instead answer a bunch of emails? Then answer your email!
 
@@ -94,7 +96,7 @@ description: Some notes on optimization and productivity.
 
       That’s what productivity is all about.
 * [**100 time, energy, and attention hacks to be more productive**](https://alifeofproductivity.com/100-time-energy-attention-hacks-will-make-productive/)
-
+</details>
 Take away: Do not always worry so much about the method nothing gets done. 
 
 {% embed data="{\"url\":\"https://youtu.be/qP1AmDRhoas\",\"type\":\"video\",\"title\":\"How To Be More Productive\",\"description\":\"If you enjoy this video please share on your social medias!! Thank you!!\\n\\nAnyone can learn to be a productive worker. This video discusses 2 ways to do this: working smarter and working harder. Productivity is a key ingredient to earning more money, and a key ingredient to feeling satisfaction with your work. \\n\\nEC\'s New Amazon Store\\nhttp://bit.ly/ectoolstore\\n\\nT Shirts, Hoodies, and More  http://bit.ly/2C7JFRv\\n\\nPATREON https://www.patreon.com/essentialcraftsman\\nINSTAGRAM https://www.instagram.com/essentialcraftsman\\nFACEBOOK https://www.facebook.com/Essentialcraftsman\\nTWITTER https://twitter.com/ECscottwad\\n\\nTools Used on this project \(Amazon Affiliate Links\)\\n\\nDrill http://amzn.to/2Dm2oIU\\nBags http://amzn.to/2HrpIaH\\nHammer http://amzn.to/2Hr9RZL\\nSquare http://amzn.to/2Gl4P1M\\nNail Gun http://amzn.to/2tIQHNb\\n\\nwww.ESSENTIALCRAFTSMAN.com\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.youtube.com/yts/img/favicon\_144-vfliLAfaB.png\",\"width\":144,\"height\":144,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://i.ytimg.com/vi/qP1AmDRhoas/maxresdefault.jpg\",\"width\":1280,\"height\":720,\"aspectRatio\":0.5625},\"embed\":{\"type\":\"player\",\"url\":\"https://www.youtube.com/embed/qP1AmDRhoas?rel=0&showinfo=0\",\"html\":\"<div style=\\\"left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.2493%;\\\"><iframe src=\\\"https://www.youtube.com/embed/qP1AmDRhoas?rel=0&amp;showinfo=0\\\" style=\\\"border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;\\\" allowfullscreen scrolling=\\\"no\\\"></iframe></div>\",\"aspectRatio\":1.7778},\"caption\":\"How To Be More Productive\"}" %}
