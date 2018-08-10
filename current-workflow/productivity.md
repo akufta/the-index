@@ -3,7 +3,7 @@ description: Some notes on optimization and productivity.
 ---
 
 # Productivity
-
+<spoiler><details> Fold</details>   </spoiler>
 ## Articles
 
 * [A few great notes on productivity by Sam Altman](http://blog.samaltman.com/productivity). 
