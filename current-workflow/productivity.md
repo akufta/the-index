@@ -3,7 +3,9 @@ description: Some notes on optimization and productivity.
 ---
 
 # Productivity
-<spoiler><details> Fold</details>   </spoiler>
+
+ Fold
+
 ## Articles
 
 * [A few great notes on productivity by Sam Altman](http://blog.samaltman.com/productivity). 
@@ -15,5 +17,5 @@ description: Some notes on optimization and productivity.
     * 80 -20 rule
     * [identify and then work on the highest-leverage tasks in each area of your life](https://alifeofproductivity.com/how-to-determine-highest-leverage-activities-work/), because these are the activities that give you the greatest return for your time, energy, and attention.
 * [**100 time, energy, and attention hacks to be more productive**](https://alifeofproductivity.com/100-time-energy-attention-hacks-will-make-productive/)
-*  Do not always worry so much about the method nothing gets done. 
+* Do not always worry so much about the method nothing gets done. 
 

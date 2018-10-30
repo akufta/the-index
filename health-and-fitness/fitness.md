@@ -1,0 +1,43 @@
+---
+description: Overall fitness plans and physiology
+---
+
+# Fitness
+
+The physiology of exercise is quite interesting! The human body is immensely complex. 
+
+One of my favorite resources is Julian Shapiro's articles on the topic:
+
+[https://www.julian.com/guide/muscle/prep](https://www.julian.com/guide/muscle/prep) & [https://www.julian.com/guide/muscle/intro](https://www.julian.com/guide/muscle/intro)
+
+## Running
+
+A lifestyle for me, running is one of my favorite ways to stay in shape, increase cardio and endurance, and have great memories with  friends–the running community really is amazing. 
+
+Life goals: 
+
+* beat 5K PR of 20:37
+* sub 3:30 marathon
+
+For speed, it seems an 80/20 training plan is the best. 
+
+#### Pacing
+
+####  Race pace calculator results: 
+
+![](../.gitbook/assets/race-pacing%20%281%29.jpg)
+
+![Pacing](../.gitbook/assets/run-pacing%20%282%29.jpg)
+
+#### Marathon
+
+[http://fellrnr.com/wiki/A\_Comparison\_of\_Marathon\_Training\_Plans](http://fellrnr.com/wiki/A_Comparison_of_Marathon_Training_Plans) - a good cross analysis of the best marathon training plans
+
+
+
+## Weightlifting
+
+Essential: Squats, Deadlifts, Bench, Pull ups/dips
+
+Bodyweight exercises also work well. 
+
