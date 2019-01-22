@@ -35,11 +35,13 @@ Kozmos.cool is an alternative to pocket that I might switch to. It's in private 
 
 If I can organize my thoughts into something cohesive, I will post about it on my site. If not, I try to take snippets of favorite articles and archive them. 
 
+Right now, I am using [archivebox](https://github.com/pirate/ArchiveBox), which is a great tool to create a self-hosted and searchable web archive. 
+
 This whole thing is still a work in progress, honestly. 
 
 ## Writing and Coding
 
-I love writing both creative and nonfiction material. For creative work, I am using [**Scrivener**](https://www.literatureandlatte.com/scrivener/overview) and [**Typora** ](https://typora.io/), though I primarily use [**Typora**](https://typora.io/) ****for markdown made articles. 
+I love writing both creative and nonfiction material. For creative work, I am using [**Scrivener**](https://www.literatureandlatte.com/scrivener/overview) and [**Typora** ](https://typora.io/). Typora is wonderful for markdown articles and Scrivener is awesome for organizing longer projects. 
 
 For coding: I use the lovely [Visual Studio Code](https://code.visualstudio.com/). It’s fast, flexible, and I use it every day to modify this website’s code. I primarily make CSS and HTML changes, and customize the templates. I also like Atom for other features and plug ins, so it's fun to switch between the two. 
 

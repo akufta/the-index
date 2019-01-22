@@ -1,10 +1,12 @@
 ---
-description: Some notes on optimization and productivity.
+description: A few articles and resources on productivity
 ---
 
 # Productivity
 
- Fold
+Focus and goal setting are both very important, but so is creating systems that enable **consistent** actions achieve those goals. 
+
+Being obsessed with productivity systems and optimizing tools isn't really that helpful. Working on this particular piece of advice because I love deep diving on this kind of stuff. 
 
 ## Articles
 
