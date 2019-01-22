@@ -31,13 +31,15 @@ For speed, it seems an 80/20 training plan is the best.
 
 #### Marathon
 
-[http://fellrnr.com/wiki/A\_Comparison\_of\_Marathon\_Training\_Plans](http://fellrnr.com/wiki/A_Comparison_of_Marathon_Training_Plans) - a good cross analysis of the best marathon training plans
+[http://fellrnr.com/wiki/A\_Comparison\_of\_Marathon\_Training\_Plans](http://fellrnr.com/wiki/A_Comparison_of_Marathon_Training_Plans) - a good cross analysis of the best marathon training plans.  There are definitely different opinions regarding training philosphies and I will update this section after I have looked more into it. 
 
 
 
 ## Weightlifting
 
-Essential: Squats, Deadlifts, Bench, Pull ups/dips
+**Essential: Squats, Deadlifts, Bench Press, Pull Ups/Dips**
 
-Bodyweight exercises also work well. 
++ protein & creatine important for muscle recovery.
+
+Bodyweight exercises also work well, though I think that weighted exercises can be more efficient.
 
