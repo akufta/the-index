@@ -35,11 +35,15 @@ For speed, it seems an 80/20 training plan is the best.
 
 
 
-## Weightlifting
+## Strength Training
+
+### Weights
 
 **Essential: Squats, Deadlifts, Bench Press, Pull Ups/Dips**
 
 + protein & creatine important for muscle recovery.
 
 Bodyweight exercises also work well, though I think that weighted exercises can be more efficient.
+
+
 
