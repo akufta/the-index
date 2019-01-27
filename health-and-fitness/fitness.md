@@ -12,6 +12,16 @@ One of my favorite resources is Julian Shapiro's articles on the topic:
 
 ## Running
 
+| Favorite Running Websites  |
+| :--- |
+| [https://www.runnersworld.com](https://www.runnersworld.com/) |
+| [https://www.reddit.com/r/running/wiki/faq](https://www.reddit.com/r/running/wiki/faq) |
+| [https://www.dcrainmaker.com](https://www.dcrainmaker.com/) |
+| [http://running.competitor.com](http://running.competitor.com/) |
+| [https://www.nytimes.com/guides/well/how-to-start-running](https://www.nytimes.com/guides/well/how-to-start-running) |
+| For making routes, this rocks: |
+| [https://www.plotaroute.com](https://www.plotaroute.com/) |
+
 A lifestyle for me, running is one of my favorite ways to stay in shape, increase cardio and endurance, and have great memories with  friends–the running community really is amazing. 
 
 Life goals: 
@@ -21,19 +31,19 @@ Life goals:
 
 For speed, it seems an 80/20 training plan is the best. 
 
-#### Pacing
+### Pacing
 
-####  Race pace calculator results: 
+{% embed url="https://www.runnersworld.com/uk/training/a761676/rws-training-pace-calculator/" %}
+
+Run 80-90% easy! 
+
+####  Goal pace calculator results: 
 
 ![](../.gitbook/assets/race-pacing%20%281%29.jpg)
 
-![Pacing](../.gitbook/assets/run-pacing%20%282%29.jpg)
+### Marathon
 
-#### Marathon
-
-[http://fellrnr.com/wiki/A\_Comparison\_of\_Marathon\_Training\_Plans](http://fellrnr.com/wiki/A_Comparison_of_Marathon_Training_Plans) - a good cross analysis of the best marathon training plans.  There are definitely different opinions regarding training philosphies and I will update this section after I have looked more into it. 
-
-
+Probably will build up to +50mpw
 
 ## Strength Training
 
@@ -43,7 +53,11 @@ For speed, it seems an 80/20 training plan is the best.
 
 + protein & creatine important for muscle recovery.
 
-Bodyweight exercises also work well, though I think that weighted exercises can be more efficient.
+### Bodyweight exercises
+
+Also work well, though I think that weighted exercises can be more efficient in some ways. 
+
+
 
 
 
