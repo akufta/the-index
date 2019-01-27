@@ -8,6 +8,11 @@ Focus and goal setting are both very important, but so is creating systems that 
 
 Being obsessed with productivity systems and optimizing tools isn't really that helpful. Working on this particular piece of advice because I love deep diving on this kind of stuff. 
 
+Current system: 
+
+* [Todoist ](https://todoist.com/app?lang=en#start) without an overwhelming number of projects. Mainly projects for school, work, general life, creative projects. 
+* When I can't get into things, Podoromo Timers with increasing intervals has been helpful.
+* 
 ## Articles
 
 * [A few great notes on productivity by Sam Altman](http://blog.samaltman.com/productivity). 
