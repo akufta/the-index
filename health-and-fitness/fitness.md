@@ -45,6 +45,18 @@ Run 80-90% easy!
 
 Probably will build up to +50mpw
 
+#### Plan Template
+
+M - R → 3 to 8 recovery  
+T -  10 - 15 tempo/marathon pace runs. // strides  
+W   R → 10 to 15 easy. Long run on tired legs  
+Th - AM 3 to 8 recovery; same PM  
+F - AM Easy 3 to 8; PM Track/Speedwork // strides  
+S - 3 to 8 recovery  
+Sun - +5 min → 15 to 20 long run
+
+
+
 ## Strength Training
 
 ### Weights
