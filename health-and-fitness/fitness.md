@@ -1,14 +1,15 @@
 ---
-description: Overall fitness plans and physiology
+description: 'Notes on fitness, plans, and physiology.'
 ---
 
 # Fitness
 
 The physiology of exercise is quite interesting! The human body is immensely complex. 
 
-One of my favorite resources is Julian Shapiro's articles on the topic:
+On the topic of **muscle building**, Julian Sharpiro has some interesting articles:
 
-[https://www.julian.com/guide/muscle/prep](https://www.julian.com/guide/muscle/prep) & [https://www.julian.com/guide/muscle/intro](https://www.julian.com/guide/muscle/intro)
+* [https://www.julian.com/guide/muscle/prep](https://www.julian.com/guide/muscle/prep) & 
+* [https://www.julian.com/guide/muscle/intro](https://www.julian.com/guide/muscle/intro)
 
 ## Running
 
