@@ -10,4 +10,5 @@
   * [Fitness](health-and-fitness/fitness.md)
   * [Nutrition](health-and-fitness/nutrition.md)
   * [H Bookmarks](health-and-fitness/h-bookmarks.md)
+* [Places](places.md)
 
