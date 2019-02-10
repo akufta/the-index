@@ -2,12 +2,22 @@
 
 I enjoy reading about nutrition articles on  [examine.com](https://examine.com),  analyses of quality on [labdoor.com](http://labdoor.com), a variety of recipe websites. 
 
-Macros I focus on:
+Definitely recommend watching this [documentary](https://theperfecthumandiet2.com) which motivated me to look more into the topic. The following are a few take aways:
 
-* Protein - lean meat, beans, protein powder/bars
-* Medium carbs - I like fruit, rice, and the occasional bagel so Keto isn't for me but I have read about the benefits
+* For optimal health, it makes sense to base a diet on millions of years of evolution, as the research stands up much better than a 6 mo to years cohort studies.
+* In the last 30,000 years, our nutrition has decreased with the advent of agriculture and introduction of grains and processed plant materials into our diet.
+
+### Macros/Types I focus on:
+
+First, analyze the Glycemic Index of foods per [http://care.diabetesjournals.org/content/31/12/2281](http://care.diabetesjournals.org/content/31/12/2281), cited by Harvard Medical School.
+
+{% file src="../.gitbook/assets/tablea1\_1.pdf" caption="Table A1. Glycemic index \(GI\) and glycemic load \(GL\) values determined in subjects with normal glucose tolerance: 2008" %}
+
+* **Protein** - lean meat, beans, protein powder/bars. Provides steady release of glucose throughout the day.
+* **Low-ish carbs** - Aiming to transition away from processed food and grains. 
 * Healthy fats
 * Eating a lot of vegetables for fiber, taste, and vitamins!
+* Fruit is good and excess fructose can be burned off with exercise.
 * 
 TDEE [Calculator ](https://tdeecalculator.net/result.php?s=imperial&g=female&age=20&lbs=116&in=62&act=1.55&f=1) Output 
 
