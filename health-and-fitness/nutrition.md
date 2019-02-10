@@ -2,11 +2,6 @@
 
 I enjoy reading about nutrition articles on  [examine.com](https://examine.com),  analyses of quality on [labdoor.com](http://labdoor.com), a variety of recipe websites. 
 
-Definitely recommend watching this [documentary](https://theperfecthumandiet2.com) which motivated me to look more into the topic. The following are a few take aways:
-
-* For optimal health, it makes sense to base a diet on millions of years of evolution, as the research stands up much better than a 6 mo to years cohort studies.
-* In the last 30,000 years, our nutrition has decreased with the advent of agriculture and introduction of grains and processed plant materials into our diet.
-
 ### Macros/Types I focus on:
 
 First, analyze the Glycemic Index of foods per [http://care.diabetesjournals.org/content/31/12/2281](http://care.diabetesjournals.org/content/31/12/2281), cited by Harvard Medical School.
@@ -47,6 +42,13 @@ Supplements I currently take on a scattered basis:
 * Bacopa Moneirri 
 
 When I have more willpower, might try intermittent fasting. Right now, I enjoy eating a lot and I try not to obsess over things too much. 
+
+&lt;hr&gt;
+
+Definitely recommend watching this [documentary](https://theperfecthumandiet2.com) which motivated me to look more into the topic. The following are a few take aways:
+
+* For optimal health, it makes sense to base a diet on millions of years of evolution, as the research stands up much better than a 6 mo to years cohort studies.
+* In the last 30,000 years, our nutrition has decreased with the advent of agriculture and introduction of grains and processed plant materials into our diet.
 
 
 
