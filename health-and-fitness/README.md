@@ -6,6 +6,10 @@ My favorite sites right now are [examine.com](https://examine.com)– an absolut
 
 Here are the rest of the [bookmarks](h-bookmarks.md) I use.
 
+## [Fitness](fitness.md)
+
+## [Nutrition](nutrition.md)
+
 ## Sleep
 
 Recently, I’ve invested more time into sleep, as per the [2018 Year In Review.](https://kalispera.xyz/post/2018/)
