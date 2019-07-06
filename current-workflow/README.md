@@ -7,17 +7,20 @@ A more detailed version of this post can be found [here](https://kalispera.xyz/p
 ## Life 
 
 * [Habits](habits.md) - I try to include a few loose habits into my life without going crazy and over structuring my day. Then I tend to get nervous and lose sight of goals and being happy and balanced. 
-  * I currently do not actively track most of my habits, bar meditation. When implementing a habit, I do track it though!
-* [Health](../health-and-fitness/) - very into fitness and exerice. Taking care of health is a strong priority for me. Not only does it feel better, but it also helps you impact the earth in a better way as well as lessen financial risk that comes with preventable health problems like obesity & the comorbidities that come with that. 
-  * I use my fitbit to track my health. I plan to get a Garmin watch once I can run again. Also, I document my recovery from sx because it is helpful and also keeps me less paranoid. 
+  * I currently do not actively track most of my habits. When implementing a habit, I do track it though! I used to practice meditation, but I am taking time off because it felt like a chore to me. I tracked that habit, though. 
+* [Health](../health-and-fitness/) - I am very into fitness, nutrition, and exercise. Taking care of health is a strong priority for me. Not only does it feel better, but it also helps you impact the earth in a better way as well as lessen financial risk that comes with preventable health problems like obesity & the comorbidities that come with that. However, I do think allowing yourself to rest & enjoy an unhealthy treat once in a while is worth it.
+  * I use my ~~fitbit~~ Garmin watch to track my health. 
+  * When you are into running, tracking your recovery from injuries/surgeries is helpful so you don't over do it. It also helps you find out what your body responds best to, in terms of ice/therapeautic exercise, etc. 
 
 ### Journal 
 
-I used to do this more regularly and plan to reimplement it into my routine after morning meditation. I sporadically journal, and when I do, I use [moodnotes](http://moodnotes.thriveport.com) because I like knowing how my mood changes over time. 
+I used to do this more regularly and plan to reimplement it into my routine in the mornings. I sporadically journal, and when I do, I use [moodnotes](http://moodnotes.thriveport.com) because I like knowing how my mood changes over time. 
 
 ## Tasks
 
-[Todoist](https://en.todoist.com/) is what I use right now, and I really like it. I have categories for media consumption, projects, university, and personal learning goals. It's helpful and using one app helps me to minimize and keep from accumulating too many tools. 
+[Todoist](https://en.todoist.com/)  → [TickTick](http://ticktick.com) is what I use right now, and I really like it. I have categories for media consumption, projects, university, and personal learning goals. It's helpful and using one app helps me to minimize and keep from accumulating too many tools. 
+
+* I also don't really use that many folders/tags. I set them up, but actually more like to use the next 7 days feature for time sensitive tasks for school. For long term things, folders are what I like to use. 
 
 I also use [fantastical](https://flexibits.com/fantastical) as my calendar app because it has a lot of useful features that are worth paying for, at least for me. Calendars are helpful.
 
