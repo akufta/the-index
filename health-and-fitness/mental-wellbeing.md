@@ -32,7 +32,9 @@ Another form of neuroticism is trying to label myself. Identity shifts and you d
 
 **Mood Tracking**
 
-When my mood was wild AF all the time, I liked to track it with an app called MoodNotes but you can use anything, like the notes section in your phone. Tracking your mood and what causes shifts can help you recenter your thoughts and analyze their path. 
+When I notice myself spiralling or heading towards the deep end of stress or whatever, I like to track it with an app called MoodNotes but you can use anything, like the notes section in your phone. Tracking your mood and what causes shifts can help you recenter your thoughts and analyze their path. 
+
+I don't really use it during breaks or when I am feeling that normal because I try to live in the moment if things are gucci. 
 
 **Look into CBT**
 

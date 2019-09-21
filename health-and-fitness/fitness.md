@@ -4,12 +4,16 @@ description: 'Notes on fitness, plans, and physiology.'
 
 # Fitness
 
-The physiology of exercise is quite interesting! The human body is immensely complex. 
+The physiology of exercise is quite interesting because the human body is immensely complex.
 
 On the topic of **muscle building**, Julian Sharpiro has some interesting articles:
 
 * [https://www.julian.com/guide/muscle/prep](https://www.julian.com/guide/muscle/prep) & 
 * [https://www.julian.com/guide/muscle/intro](https://www.julian.com/guide/muscle/intro)
+
+{% embed url="https://www.exrx.net/Lists/Directory" %}
+
+
 
 ## Running
 
@@ -64,7 +68,7 @@ Sun - +5 min → 15 to 20 long run
 
 **Essential: Squats, Deadlifts, Bench Press, Pull Ups/Dips**
 
-+ protein & creatine important for muscle recovery.
++ protein & creatine helpful for muscle recovery.
 
 ### Bodyweight exercises
 

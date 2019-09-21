@@ -2,12 +2,12 @@
 
 * [Epistemology](https://wiki.xxiivv.com/#epistemology) – a "cheatsheet including fallacies, effects, illusions and biases."
   * Glossary for learning
-* [Anki](https://apps.ankiweb.net) is what I use for learning academic material, which is a tool that makes learning process an incredibly efficient one. 
+* [Anki](https://apps.ankiweb.net) is what I use for learning academic material, which is a tool that makes learning process an incredibly efficient one. It works due to spaced repetition. 
 
 ### Optimizing Learning
 
 * **Prioritize sleep and exercise**
-  * SLEEP
+  * **SLEEP**
 
     * Your brain consolidates memories during sleep\( in both NREM and REM stages\), so short changing yourself on sleep also shortchanges you on your learning efficiency. It’s important to sleep the amount your body needs, generally 7–9 hours. 
     * [The Joe Rogan Experience - Sleep Expert and Neuroscientist Dr. Matthew Walker - Podcast Notes](https://podcastnotes.org/2018/04/29/why-we-sleep/)
@@ -15,7 +15,7 @@
     * [Why do we sleep?](https://www.ted.com/talks/russell_foster_why_do_we_sleep?language=en)TEDTalk by Russel Foster
     * [https://www.supermemo.com/en/articles/sleep\#The\_algorithm](https://www.supermemo.com/en/articles/sleep#The_algorithm)
 
-  * EXERCISE
+  * **EXERCISE**
 
     * Another essential lifestyle component that seems basic but really helps when done consistently. 
     * Reduces stress which is important for memory retention. Though being too chill also hurts performance. However, most people are the opposite and being too stressed hurts performance as well. 
