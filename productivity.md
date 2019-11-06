@@ -12,7 +12,7 @@ Being obsessed with productivity systems and optimizing tools isn't really that 
 
 * TickTick without an overwhelming number of folders. Just broad categories for school, work, projects, life. 
 * When I can't get into things, Podoromo Timers with increasing intervals has been helpful for locking into the zone.
-* 
+
 ## Articles
 
 * [A few great notes on productivity by Sam Altman](http://blog.samaltman.com/productivity). 
