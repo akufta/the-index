@@ -12,5 +12,4 @@
   * [Sleep](health-and-fitness/sleep.md)
   * [Nutrition](health-and-fitness/nutrition.md)
   * [Mental Wellbeing](health-and-fitness/mental-wellbeing.md)
-  * [Index of Health Bookmarks](health-and-fitness/index-of-health-bookmarks.md)
 
