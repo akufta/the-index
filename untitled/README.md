@@ -3,6 +3,7 @@
 * [Epistemology](https://wiki.xxiivv.com/#epistemology) – a "cheatsheet including fallacies, effects, illusions and biases."
   * Glossary for learning
 * [Anki](https://apps.ankiweb.net) is what I use for learning academic material, which is a tool that makes learning process an incredibly efficient one. It works due to spaced repetition. 
+  * [For Medical Students](https://www.reddit.com/r/medicalschoolanki/comments/bu4en7/the_longawaited_anking_overhaul/)
 
 ### Optimizing Learning
 
@@ -33,6 +34,18 @@
     * Right now, however, I stick to trying to break down the word/concept/idea into sounds & finding an image that is memorable. The memory palace is good for things that just aren’t sticking, but is a bit time consuming and sort of overkill for some things.
     * A real example I used when studying for my psychology final: I am trying to learn that the **G**eneral **A**daptation **S**yndrome is a consistent pattern of responses / physiological coping to stress that consists of three stages: **a**larm,**r**esistance, and **e**xhaustion. I will now make the mnemonic **GAS**es **ARE**Stressful
     * Sometimes it’s easier to use part of the entire word instead of just the first letter. Or break down syllables and form images. let’s say you were trying to learn that puerta\(spanish\) means door. Puerta kind of sounds/looks like part. Just think of someone parting ways at a door. That’s pretty memorable!
+* Learning Theory & Memory Links
+  * [mullenememory.com](https://mullenmemory.com)
+  * Art of Memory
+    * [Free PDF Ebook on Memory Techniques ](https://artofmemory.com/ebook)
+    * [Getting Started Guide  ](https://artofmemory.com/start)
+    * [Memory Techniques Wiki  ](https://artofmemory.com/wiki/Main_Page)
+    * [List of FAQs  ](https://artofmemory.com/faqs)
+    * [Art of Memory Blog ](https://blog.artofmemory.com/)
+    * [Art of Memory home page ](https://artofmemory.com/)
+  * Moon Walking with Einstein Joshua Foer Notes:
+    * [https://vialogue.wordpress.com/2013/08/01/moonwalking-with-einstein-notes-review/](https://vialogue.wordpress.com/2013/08/01/moonwalking-with-einstein-notes-review/) 
+    * [http://www.maxmednik.com/blog/notes-on-moonwalking-with-einstein](http://www.maxmednik.com/blog/notes-on-moonwalking-with-einstein)
 
 
 
