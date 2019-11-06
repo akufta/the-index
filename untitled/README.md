@@ -49,3 +49,57 @@
 
 
 
+* Alphabet Pegs
+  * FOOD
+    * Avacado
+    * Bacon
+    * Carrot
+    * Donut
+    * Eggs
+    * French toast
+    * Garlic
+    * Honey
+    * Ice cream
+    * Jelly
+    * Kiwi
+    * Lettuce
+    * Meat
+    * Nacho
+    * Orange
+    * Peas
+    * Quesadilla
+    * Ramen
+    * Spinach
+    * Turkey
+    * Ugli fruit looks orange and lumpy
+    * Watermelon
+    * Xanthan Gum lol 
+    * Yam
+    * Zucchini
+  * ANIMALS
+    * Ant
+    * Bee
+    * Cat
+    * Dog
+    * Elephant
+    * Frog 
+    * Giraffe
+    * Hippopotamus
+    * Iguana
+    * Jellyfish
+    * Kangaroo
+    * Lion
+    * Mouse
+    * Narwhal
+    * Owl
+    * Penguin
+    * Quail
+    * Rabbit
+    * Snake
+    * Turtle
+    * Unicorn
+    * Vulture
+    * Woodpecker
+    * Xray Fish
+    * Yak
+    * Zebra
