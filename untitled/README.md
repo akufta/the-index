@@ -8,14 +8,14 @@
 ## Optimizing Learning
 
 * **Prioritize sleep and exercise**
-  * **SLEEP**
+  * **Sleep**
     * Your brain consolidates memories during sleep\( in both NREM and REM stages\), so short changing yourself on sleep also shortchanges you on your learning efficiency. It’s important to sleep the amount your body needs, generally 7–9 hours. 
     * [The Joe Rogan Experience - Sleep Expert and Neuroscientist Dr. Matthew Walker - Podcast Notes](https://podcastnotes.org/2018/04/29/why-we-sleep/)
     * This book is truly amazing [Unlocking the Power of Sleep and Dreams: Matthew Walker PhD: 9781501144318: Amazon.com: Books](https://amzn.to/2sLOhtR)
     * [Why do we sleep?](https://www.ted.com/talks/russell_foster_why_do_we_sleep?language=en) TEDTalk by Russel Foster
     * [https://www.supermemo.com/en/articles/sleep\#The\_algorithm](https://www.supermemo.com/en/articles/sleep#The_algorithm)
     * [More general notes on sleep w/ research references](../health-and-fitness/sleep.md)
-  * **EXERCISE**
+  * **Exercise**
     * Another essential lifestyle component that seems basic but really helps when done consistently. 
     * Reduces stress which is important for memory retention. Though being too chill also hurts performance. However, most people are the opposite and being too stressed hurts performance as well. 
 * **Spaced Repition**
@@ -31,16 +31,16 @@
     * Right now, however, I stick to trying to break down the word/concept/idea into sounds & finding an image that is memorable. The memory palace is good for things that just aren’t sticking, but is a bit time consuming and sort of overkill for some things.
     * A real example I used when studying for my psychology final: I am trying to learn that the **G**eneral **A**daptation **S**yndrome is a consistent pattern of responses / physiological coping to stress that consists of three stages: **a**larm,**r**esistance, and **e**xhaustion. I will now make the mnemonic **GAS**es **ARE**Stressful
     * Sometimes it’s easier to use part of the entire word instead of just the first letter. Or break down syllables and form images. let’s say you were trying to learn that puerta\(spanish\) means door. Puerta kind of sounds/looks like part. Just think of someone parting ways at a door. That’s pretty memorable!
-* Learning Theory & Memory Links
+* **Learning Theory & Memory Links**
   * [mullenememory.com](https://mullenmemory.com)
-  * Art of Memory
+  * **Art of Memory**
     * [Free PDF Ebook on Memory Techniques ](https://artofmemory.com/ebook)
     * [Getting Started Guide  ](https://artofmemory.com/start)
     * [Memory Techniques Wiki  ](https://artofmemory.com/wiki/Main_Page)
     * [List of FAQs  ](https://artofmemory.com/faqs)
     * [Art of Memory Blog ](https://blog.artofmemory.com/)
     * [Art of Memory home page ](https://artofmemory.com/)
-  * Moon Walking with Einstein Joshua Foer Notes:
+  * **Moon Walking with Einstein Joshua Foer Notes:**
     * [https://vialogue.wordpress.com/2013/08/01/moonwalking-with-einstein-notes-review/](https://vialogue.wordpress.com/2013/08/01/moonwalking-with-einstein-notes-review/) 
     * [http://www.maxmednik.com/blog/notes-on-moonwalking-with-einstein](http://www.maxmednik.com/blog/notes-on-moonwalking-with-einstein)
 * Alphabet Pegs
