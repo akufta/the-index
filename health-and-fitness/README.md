@@ -4,8 +4,6 @@ This is a place synthesizing I know about health and fitness.
 
 My favorite sites right now are [examine.com](https://examine.com)– an absolutely wonderful resource–and reddit's fitness and running subreddits. I find their wiki section a great place to start for other resources. 
 
-Here are the rest of the [bookmarks]() I use.
-
 ## [Fitness](fitness.md)
 
 ## [Nutrition](nutrition.md)
