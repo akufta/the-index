@@ -45,7 +45,7 @@
     * [http://www.maxmednik.com/blog/notes-on-moonwalking-with-einstein](http://www.maxmednik.com/blog/notes-on-moonwalking-with-einstein)
 * Alphabet Pegs
   * FOOD
-    * Avacado
+    * Avocado
     * Bacon
     * Carrot
     * Donut
