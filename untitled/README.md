@@ -67,7 +67,8 @@
     * Turkey
     * Ugli fruit looks orange and lumpy
     * Watermelon
-    * Xanthan Gum lol 
+    * Vanilla Bean
+    * Xanthan Gum lol /[ Ximenia fruit](http://3.bp.blogspot.com/-lglPMaUQivo/Up5rJUpHAEI/AAAAAAAAAPs/QPu7VN6IwJo/s320/Ximenia.jpg) - yellow cute fruit
     * Yam
     * Zucchini
   * ANIMALS
