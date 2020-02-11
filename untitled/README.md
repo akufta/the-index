@@ -56,7 +56,7 @@
     * Ice cream
     * Jelly
     * Kiwi
-    * Lettuce
+    * Lettuce/ Lemon
     * Meat
     * Nacho
     * Orange
