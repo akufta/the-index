@@ -4,7 +4,7 @@
 * [Sharing](social.md)
 * [Untitled](untitled-1.md)
 * [Knowledge & Learning Theory](untitled/README.md)
-  * [Notes](untitled/topics-of-interest.md)
+  * [Science](untitled/topics-of-interest.md)
 * [Productivity](productivity.md)
 * [Current Workflow](current-workflow/README.md)
   * [Habits](current-workflow/habits.md)
