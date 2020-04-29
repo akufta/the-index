@@ -1,6 +1,6 @@
 # Nutrition
 
-I enjoy reading about nutrition articles on  [examine.com](https://examine.com),  analyses of quality on [labdoor.com](http://labdoor.com), a variety of recipe websites. 
+I enjoy reading about nutrition articles on  [examine.com](https://examine.com),  analyses of quality on [labdoor.com](http://labdoor.com), and a variety of recipe websites. 
 
 ### Macros/Types I focus on:
 
@@ -30,16 +30,22 @@ TDEE [Calculator ](https://tdeecalculator.net/result.php?s=imperial&g=female&age
 {% endtab %}
 {% endtabs %}
 
-* * * 
-Supplements I currently take on a scattered basis:
+* * *
+### Supplements 
+
+I currently take these  on a scattered basis:
 
 * Creatine
 * Protein powder - MyProtein
-* Magnesium
-* Vitamin D
-* Zinc
+* Calcium, Magnesium, Vitamin D, Zinc complex
 * Melatonin
 * Bacopa Moneirri 
+* Caffeine →  coffee (& tea). 
+  * For coffee, I use the Aeropress, French Press, a drip coffee maker, and reusable K-Cups/ Keurig regularly lol. 
+    * https://prima-coffee.com
+    * https://www.reddit.com/r/Coffee/ 
+    * [Sweet Maria's](http://www.sweetmarias.com/index.php) 
+    * [JIMSEVEN](http://www.jimseven.com/) 
 
 When I have more willpower, might try intermittent fasting. Right now, I enjoy eating a lot and I try not to obsess over things too much. 
 
