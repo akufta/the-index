@@ -1,6 +1,6 @@
 ---
 description: >-
-  This keeps evolv as time goes on as I find new ways to optimize without
+  This keeps evolvi as time goes on as I find new ways to optimize without
   getting overly addicted to the tools. In some ways, I've found simpler
   alternatives. It's easy to get caught up in the details.
 ---
@@ -10,7 +10,7 @@ description: >-
 ## Life 
 
 * [Habits](habits.md) - I try to include a few loose habits into my life without going crazy and over structuring my day. Then I tend to get nervous and lose sight of goals and being happy and balanced. 
-  * I currently do not actively track most of my habits. When implementing a habit, I do track it though! I used to practice meditation, but I am taking time off because it felt like a chore to me. I tracked that habit, though. 
+  * I currently do not actively track most of my habits. When implementing a habit, I do track it though! I used to practice meditation, but I am taking time off because it felt like a chore to me, and I know it isn't. I tracked that habit, though. 
 * [Health](../health-and-fitness/) - I am very into fitness, nutrition, and exercise. Taking care of health is a strong priority for me. Not only does it feel better, but it also helps you impact the earth in a better way as well as lessen financial risk that comes with preventable health problems like obesity & the comorbidities that come with that. However, I do think allowing yourself to rest & enjoy an unhealthy treat once in a while is worth it.
   * I use my ~~fitbit~~ Garmin watch to track my health. 
   * When you are into running, tracking your recovery from injuries/surgeries is helpful so you don't over do it. It also helps you find out what your body responds best to, in terms of ice/therapeautic exercise, etc. 

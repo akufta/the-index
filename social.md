@@ -10,8 +10,6 @@ Most of my creative work online can be found on the following sites:
 
 {% embed url="https://www.instagram.com/akufta.art/" caption="Instagram" %}
 
-{% embed url="https://inktale.com/akufta" caption="Inktale Store – Prints & Apparel" %}
-
 [Kalispera](https://kalispera.xyz) - Essays & Articles  
 [GoodReads](https://www.goodreads.com/user/show/31960024-allison-kufta) – Books  
 [Flickr Photography Portfolio](http://flickr.com/allisonkufta)  

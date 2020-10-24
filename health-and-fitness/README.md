@@ -20,5 +20,9 @@ Optimal goal is to sleep 8+ hours every night because it really is essential for
 
 [Why do we sleep?](https://www.ted.com/talks/russell_foster_why_do_we_sleep?language=en) TEDTalk by Russel Foster
 
-[https://www.supermemo.com/en/articles/sleep\#The\_algorithm](https://www.supermemo.com/en/articles/sleep#The_algorithm)
+{% embed url="https://www.supermemo.com/en/articles/sleep\#The\_algorithm" caption="a bit hard to do free running sleep in practice, but great to read" %}
+
+
+
+
 
