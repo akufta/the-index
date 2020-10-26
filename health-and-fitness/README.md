@@ -1,6 +1,6 @@
 # Health & Fitness
 
-This is a place synthesizing I know about health and fitness.
+Notes to synthesize what I know about health and fitness and my approach to a hopefully fulfilling and healthy life.
 
 My favorite sites right now are [examine.com](https://examine.com)– an absolutely wonderful resource–and reddit's fitness and running subreddits. I find their wiki section a great place to start for other resources. 
 
