@@ -65,7 +65,63 @@ Sun - +5 min → 15 to 20 long run
 
 ### Bodyweight exercises
 
-Also work well, though I think that weighted exercises can be more efficient in some ways. 
+Also work well, though I think that weighted exercises can be more efficient in some ways.
+
+Templates:
+
+#### Stretches
+
+* 3 Plane Neck Movement
+* Finger Flexion/Extension
+* Maximally open the hand, then make a fist
+* Wrist Circles
+* Make a fist and "draw a circle" with your pointer finger knuckle
+* Elbow Circles
+* Large Arm Circles
+* Circular Shrugs
+* Torso Twists
+* Keep the arms straight, palms facing upward
+* Side Bends
+* Forward/Back Bends
+* Bend forward loosely, allowing the spine to round
+* Arch backward at the top of the movement
+* Pelvic Tilts
+* Hula-hoop Hip Circles
+* Leg Rotations
+* High Knee Raises
+* Kick Backs / Butt Kicks
+* Ankle Circles
+* Point the toes and "draw a circle" with the big toe
+* Ankle Tilts
+* Without twisting the foot, tilt the ankle to the left and right
+* Toe Flexion/Extension
+* Lift toes up then curl them down
+
+#### Arms ~ Every Mon/Thurs
+
+* Dips/ Chin Ups \(palm towards\)/  Push-Ups w/ Perfect Push-up Handles - 3x8 --&gt; 3x15 \(would sometimes mix in diamonds, declines, and claps\)
+* Inverted Row - 3x8 --&gt; 3x15 
+* Pull Ups - 3x6 --&gt; 3x12 \(usually failed around 6-8 reps on the last set. Never got a full third set.\)
+* Handstand Practice - 3x30 seconds --&gt; 3x60 seconds  
+* Chest Dips - 3x8 --&gt; 3x12 \(only added these the last couple of weeks of the routine
+* Supplemental - would more often than not do some lateral raises, overhead presses, curls, and rows with resistance bands.
+
+#### Core ~ Every Wed/Sat
+
+* Youtube
+*  bicycles, mountain climbers, punch/russian twist, dead bugs, V ups, heel touches, glute bridges, hollow hold, reverse plank, side plank x 2, elbow plank, superman, bird dog, leg raises
+
+#### Legs ~ Every Tue/Fri
+
+* Variations of squats
+* deadlifts
+* calf raises
+* lungs
+* side leg things
+* jumps
+* sprints
+
+
 
 
 
