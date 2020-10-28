@@ -27,6 +27,12 @@ Life goals:
 * beat 5K PR of 20:37
 * sub 3:30 marathon
 
+### Marathon 
+
+My chip broke, so my official time is like 6 hours, but this is from my Garmin. 
+
+![](../.gitbook/assets/image%20%286%29.jpeg)
+
 For speed, it seems an 80/20 training plan is the best. 
 
 ### Pacing
