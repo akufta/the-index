@@ -6,12 +6,17 @@ description: A few articles and resources on productivity
 
 Focus and goal setting are both very important, but so is creating systems that enable **consistent** actions achieve those goals. 
 
-Being obsessed with productivity systems and optimizing tools isn't really that helpful. Working on this particular piece of advice because I love deep diving on this kind of stuff. 
+Being obsessed with productivity systems and optimizing tools isn't really that helpful. Working on this particular piece of advice because I love deep diving on this kind of stuff.
+
+Try not to overcomplicate your system, which often results in just the illusion of productivity.
+
+Take restful breaks because you are more than your output of whatever you're trying to achieve.  Health, relationships, and self care are all important too. 
 
 **Current system:** 
 
-* TickTick without an overwhelming number of folders. Just broad categories for school, work, projects, life. 
+* TickTick without an overwhelming number of folders. Just broad categories for school, work, projects, life. Too many clicks gets irritating.
 * When I can't get into things, Podoromo Timers with increasing intervals has been helpful for locking into the zone.
+* Sometimes I put on a masking brown noise + rain sound if the background is too loud. Also kinda doubles as a podoromo in a way. 
 
 ## Articles
 

@@ -49,8 +49,6 @@ When I have more willpower, might try intermittent fasting. Right now, I enjoy e
 
 &lt;hr&gt;
 
-Definitely recommend watching this [documentary](https://theperfecthumandiet2.com) which motivated me to look more into the topic. The following are a few take aways:
-
 * For optimal health, it makes sense to base a diet on millions of years of evolution, as the research stands up much better than a 6 mo to years cohort studies.
 * In the last 30,000 years, our nutrition has decreased with the advent of agriculture and introduction of grains and processed plant materials into our diet.
 
