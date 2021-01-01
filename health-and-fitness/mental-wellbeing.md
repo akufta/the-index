@@ -6,6 +6,8 @@ description: >-
 
 # Mental Wellbeing
 
+An article posted to my website on my current thoughts on well being: [https://kalispera.xyz/run-but-stop-chasing-things](https://kalispera.xyz/run-but-stop-chasing-things). 
+
 ## Physical / Integrated Approach
 
 ‌Your brain is an entirely physical organ, so every emotion and thought really _is_ just a pattern of electrochemical impulses. **This is the primary reason exercise, sleep, and nutrition are so important.**
