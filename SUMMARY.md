@@ -13,7 +13,7 @@
   * [Nutrition](health-and-fitness/nutrition.md)
   * [Mental Wellbeing](health-and-fitness/mental-wellbeing.md)
 * [Year in Review Archive](untitled-1/README.md)
+  * [2021](untitled-1/2021.md)
   * [2020](untitled-1/2020.md)
   * [2019](untitled-1/2019.md)
   * [2018](untitled-1/2018.md)
-

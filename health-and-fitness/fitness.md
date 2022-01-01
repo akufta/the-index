@@ -1,49 +1,49 @@
 # Fitness
 
-The physiology of exercise is quite interesting! The human body is immensely complex. 
+The physiology of exercise is quite interesting! The human body is immensely complex.&#x20;
 
 On the topic of **muscle building**, Julian Sharpiro has some interesting articles:
 
-* [https://www.julian.com/guide/muscle/prep](https://www.julian.com/guide/muscle/prep) & 
+* [https://www.julian.com/guide/muscle/prep](https://www.julian.com/guide/muscle/prep) &&#x20;
 * [https://www.julian.com/guide/muscle/intro](https://www.julian.com/guide/muscle/intro)
 
 ## Running
 
-| Favorite Running Websites  |
-| :--- |
-| [https://www.runnersworld.com](https://www.runnersworld.com/) |
-| [https://www.reddit.com/r/running/wiki/faq](https://www.reddit.com/r/running/wiki/faq) |
-| [https://www.dcrainmaker.com](https://www.dcrainmaker.com/) |
-| [http://running.competitor.com](http://running.competitor.com/) |
+| Favorite Running Websites                                                                                            |
+| -------------------------------------------------------------------------------------------------------------------- |
+| [https://www.runnersworld.com](https://www.runnersworld.com)                                                         |
+| [https://www.reddit.com/r/running/wiki/faq](https://www.reddit.com/r/running/wiki/faq)                               |
+| [https://www.dcrainmaker.com](https://www.dcrainmaker.com)                                                           |
+| [http://running.competitor.com](http://running.competitor.com)                                                       |
 | [https://www.nytimes.com/guides/well/how-to-start-running](https://www.nytimes.com/guides/well/how-to-start-running) |
-| For making routes, this rocks: |
-| [https://www.plotaroute.com](https://www.plotaroute.com/) |
-| https://www.connect.garmin.com |
+| For making routes, this rocks:                                                                                       |
+| [https://www.plotaroute.com](https://www.plotaroute.com)                                                             |
+| https://www.connect.garmin.com                                                                                       |
 
-A lifestyle for me, running is one of my favorite ways to stay in shape, increase cardio and endurance, and have great memories with  friends–the running community really is amazing. 
+A lifestyle for me, running is one of my favorite ways to stay in shape, increase cardio and endurance, and have great memories with  friends–the running community really is amazing.&#x20;
 
-Life goals: 
+Life goals:&#x20;
 
 * beat 5K PR of 20:37
 * sub 3:30 marathon
 
-### Marathon 
+### Marathon&#x20;
 
-My chip broke, so my official time is like 6 hours, but this is from my Garmin. 
+My chip broke, so my official time is like 6 hours, but this is from my Garmin.&#x20;
 
-![](../.gitbook/assets/image%20%286%29.jpeg)
+![](<../.gitbook/assets/image (6).jpeg>)
 
-For speed, it seems an 80/20 training plan is the best. 
+For speed, it seems an 80/20 training plan is the best.&#x20;
 
 ### Pacing
 
 {% embed url="https://www.runnersworld.com/uk/training/a761676/rws-training-pace-calculator/" %}
 
-Run 80-90% easy! 
+Run 80-90% easy!&#x20;
 
-####  Goal pace calculator results: 
+#### &#x20;Goal pace calculator results:&#x20;
 
-![](../.gitbook/assets/race-pacing%20%281%29.jpg)
+![](<../.gitbook/assets/race-pacing (1).jpg>)
 
 ### Marathon
 
@@ -51,12 +51,12 @@ Probably will build up to +50mpw
 
 #### Plan Template
 
-M - R → 3 to 8 recovery  
-T -  10 - 15 tempo/marathon pace runs. // strides  
-W   R → 10 to 15 easy. Long run on tired legs  
-Th - AM 3 to 8 recovery; same PM  
-F - AM Easy 3 to 8; PM Track/Speedwork // strides  
-S - 3 to 8 recovery  
+M - R → 3 to 8 recovery\
+T -  10 - 15 tempo/marathon pace runs. // strides\
+W   R → 10 to 15 easy. Long run on tired legs\
+Th - AM 3 to 8 recovery; same PM\
+F - AM Easy 3 to 8; PM Track/Speedwork // strides\
+S - 3 to 8 recovery\
 Sun - +5 min → 15 to 20 long run
 
 
@@ -67,7 +67,7 @@ Sun - +5 min → 15 to 20 long run
 
 **Essential: Squats, Deadlifts, Bench Press, Pull Ups/Dips**
 
-+ protein & creatine important for muscle recovery.
+\+ protein & creatine important for muscle recovery.
 
 ### Bodyweight exercises
 
@@ -103,21 +103,21 @@ Templates:
 * Toe Flexion/Extension
 * Lift toes up then curl them down
 
-#### Arms ~ Every Mon/Thurs
+#### Arms \~ Every Mon/Thurs
 
-* Dips/ Chin Ups \(palm towards\)/  Push-Ups w/ Perfect Push-up Handles - 3x8 --&gt; 3x15 \(would sometimes mix in diamonds, declines, and claps\)
-* Inverted Row - 3x8 --&gt; 3x15 
-* Pull Ups - 3x6 --&gt; 3x12 \(usually failed around 6-8 reps on the last set. Never got a full third set.\)
-* Handstand Practice - 3x30 seconds --&gt; 3x60 seconds  
-* Chest Dips - 3x8 --&gt; 3x12 \(only added these the last couple of weeks of the routine
+* Dips/ Chin Ups (palm towards)/  Push-Ups w/ Perfect Push-up Handles - 3x8 --> 3x15 (would sometimes mix in diamonds, declines, and claps)
+* Inverted Row - 3x8 --> 3x15&#x20;
+* Pull Ups - 3x6 --> 3x12 (usually failed around 6-8 reps on the last set. Never got a full third set.)
+* Handstand Practice - 3x30 seconds --> 3x60 seconds &#x20;
+* Chest Dips - 3x8 --> 3x12 (only added these the last couple of weeks of the routine
 * Supplemental - would more often than not do some lateral raises, overhead presses, curls, and rows with resistance bands.
 
-#### Core ~ Every Wed/Sat
+#### Core \~ Every Wed/Sat
 
 * Youtube
-*  bicycles, mountain climbers, punch/russian twist, dead bugs, V ups, heel touches, glute bridges, hollow hold, reverse plank, side plank x 2, elbow plank, superman, bird dog, leg raises
+* &#x20;bicycles, mountain climbers, punch/russian twist, dead bugs, V ups, heel touches, glute bridges, hollow hold, reverse plank, side plank x 2, elbow plank, superman, bird dog, leg raises
 
-#### Legs ~ Every Tue/Fri
+#### Legs \~ Every Tue/Fri
 
 * Variations of squats
 * deadlifts
@@ -126,8 +126,6 @@ Templates:
 * side leg things
 * jumps
 * sprints
-
-
 
 
 

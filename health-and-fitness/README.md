@@ -2,7 +2,7 @@
 
 Notes to synthesize what I know about health and fitness and my approach to a hopefully fulfilling and healthy life.
 
-My favorite sites right now are [examine.com](https://examine.com)– an absolutely wonderful resource–and reddit's fitness and running subreddits. I find their wiki section a great place to start for other resources. 
+My favorite sites right now are [examine.com](https://examine.com)– an absolutely wonderful resource–and reddit's fitness and running subreddits. I find their wiki section a great place to start for other resources.&#x20;
 
 ## [Fitness](fitness.md)
 
@@ -18,11 +18,11 @@ Optimal goal is to sleep 8+ hours every night because it really is essential for
 
 * [The Joe Rogan Experience - Sleep Expert and Neuroscientist Dr. Matthew Walker - Podcast Notes](https://podcastnotes.org/2018/04/29/why-we-sleep/)
 
-[Why do we sleep?](https://www.ted.com/talks/russell_foster_why_do_we_sleep?language=en) TEDTalk by Russel Foster
+[Why do we sleep?](https://www.ted.com/talks/russell\_foster\_why\_do\_we\_sleep?language=en) TEDTalk by Russel Foster
 
-{% embed url="https://www.supermemo.com/en/articles/sleep\#The\_algorithm" caption="a bit hard to do free running sleep in practice, but great to read" %}
-
-
+{% embed url="https://www.supermemo.com/en/articles/sleep#The_algorithm" %}
+a bit hard to do free running sleep in practice, but great to read
+{% endembed %}
 
 
 
